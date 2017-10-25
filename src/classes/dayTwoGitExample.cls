@@ -4,4 +4,6 @@ public with sharing class dayTwoGitExample {
 	public static void doStuff() {
 		System.debug('I am doing stuff');
 	}
+
+	
 }
