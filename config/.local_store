@@ -1,0 +1,16 @@
+{
+    "Day0Example.cls": {
+        "createdById": "0051I000000qQMJQA2",
+        "createdByName": "Lauren Nichols",
+        "createdDate": "2017-10-20T21:45:18.000Z",
+        "fileName": "unpackaged/classes/Day0Example.cls",
+        "fullName": "Day0Example",
+        "id": "01p1I000007BtgNQAS",
+        "lastModifiedById": "0051I000000qQMJQA2",
+        "lastModifiedByName": "Lauren Nichols",
+        "lastModifiedDate": "2017-10-20T21:47:20.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    }
+}

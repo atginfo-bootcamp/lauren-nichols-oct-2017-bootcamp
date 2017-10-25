@@ -1,0 +1,848 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"att",
+				"attrDict"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tab",
+				"table-row"
+			],
+			[
+				"table",
+				"table-body"
+			],
+			[
+				"custom",
+				"customPricingHasOccured"
+			],
+			[
+				"customPricing",
+				"customPricingHasOccured"
+			],
+			[
+				"CUSTOM",
+				"CUSTOM_PRICING_HAS_OCCURED"
+			],
+			[
+				"CU",
+				"CUSTOM_PRICING_HAS_OCCURED"
+			],
+			[
+				"put",
+				"putStringAttribute"
+			],
+			[
+				"pi",
+				"piDelimiter"
+			],
+			[
+				"customListPrice",
+				"customListPrice_line"
+			],
+			[
+				"str",
+				"strPrice"
+			],
+			[
+				"TRU",
+				"TRUE_STR"
+			],
+			[
+				"form",
+				"formAttrValueStr"
+			],
+			[
+				"spe",
+				"specialWorkflowFlag_line"
+			],
+			[
+				"extendedNetPrice",
+				"extendedNetPrice_line"
+			],
+			[
+				"exte",
+				"extendedListPrice"
+			],
+			[
+				"mul",
+				"numberOfTransMultipleBy13Or12MQY_quote"
+			],
+			[
+				"trans",
+				"transactions"
+			],
+			[
+				"tran",
+				"transactions"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"date",
+				"datetostr"
+			],
+			[
+				"acc",
+				"accountServicePartnerType_quote"
+			],
+			[
+				"coreser",
+				"CORE_SERVICE"
+			],
+			[
+				"out",
+				"outputDisplayRamp_quote"
+			],
+			[
+				"model",
+				"modelRampMapping"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"wa",
+				"waiveInitialCalendarYearFee_quote"
+			],
+			[
+				"for",
+				"for-each"
+			],
+			[
+				"cu",
+				"CURRENT_DATE"
+			],
+			[
+				"OED",
+				"OED_DATE"
+			],
+			[
+				"oed",
+				"orderEffectiveDate_quote"
+			],
+			[
+				"CURR",
+				"CURRENT_MONTH"
+			],
+			[
+				"OED_",
+				"OED_MONTH"
+			],
+			[
+				"CUR",
+				"CURRENT_DATE"
+			],
+			[
+				"CURRENT",
+				"CURRENT_MONTH"
+			],
+			[
+				"TO",
+				"TODAY_MINUS_60_DAYS"
+			],
+			[
+				"CURREN",
+				"CURRENT_DATE"
+			],
+			[
+				"C",
+				"CURRENT_DAY"
+			],
+			[
+				"DATE",
+				"CURRENT_DATESTR"
+			],
+			[
+				"attrib",
+				"attributesDict"
+			],
+			[
+				"customerName",
+				"customerName_line"
+			],
+			[
+				"part",
+				"partnerServicesFlag"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"fir",
+				"firstCheck"
+			],
+			[
+				"fa",
+				"favColorDict"
+			],
+			[
+				"let",
+				"legCountPerDictKey"
+			],
+			[
+				"imp",
+				"implementationPartner"
+			],
+			[
+				"or",
+				"orbitDict"
+			],
+			[
+				"side",
+				"sidePartNum"
+			],
+			[
+				"sid",
+				"sidePartNum"
+			],
+			[
+				"partner",
+				"partnerBillingStartDate"
+			],
+			[
+				"order",
+				"orderEffectiveDate_quote"
+			],
+			[
+				"line",
+				"line_process"
+			],
+			[
+				"lin",
+				"line_process"
+			],
+			[
+				"newProductEnd",
+				"newProductEndDate_line"
+			],
+			[
+				"new",
+				"newProductEndDate"
+			],
+			[
+				"on",
+				"oneDaySub"
+			],
+			[
+				"my",
+				"myDessert"
+			],
+			[
+				"output",
+				"outputSetupFee_line"
+			],
+			[
+				"value",
+				"value-of"
+			],
+			[
+				"non",
+				"nonCIPCoreFlag"
+			],
+			[
+				"user",
+				"userGroups"
+			],
+			[
+				"imple",
+				"implementationMethod"
+			],
+			[
+				"is",
+				"isPartOfPackage"
+			],
+			[
+				"util",
+				"utilResultString"
+			],
+			[
+				"T",
+				"TERMINATE"
+			],
+			[
+				"product",
+				"productCategory"
+			],
+			[
+				"tru",
+				"TRUE_STR"
+			],
+			[
+				"ouputSe",
+				"outputSetupFee_line"
+			],
+			[
+				"key",
+				"keyDelim"
+			],
+			[
+				"fin",
+				"finalReturnString"
+			],
+			[
+				"other",
+				"otherwise"
+			],
+			[
+				"contrac",
+				"contractRenewalDate_quote"
+			],
+			[
+				"modelD",
+				"modelDocNum"
+			],
+			[
+				"strings",
+				"stringsDict"
+			],
+			[
+				"IC",
+				"ICP_PO2"
+			],
+			[
+				"icp",
+				"ICP_PO1"
+			],
+			[
+				"ICP",
+				"ICP_PI2"
+			],
+			[
+				"inv",
+				"INV_PO1"
+			],
+			[
+				"get",
+				"getFloatAttribute"
+			],
+			[
+				"ic",
+				"ICP_PI2"
+			],
+			[
+				"assetOrig",
+				"assetOriginalNetPrice_list"
+			],
+			[
+				"asset",
+				"assetAction"
+			],
+			[
+				"item",
+				"itemType"
+			],
+			[
+				"INV",
+				"INV_PO2"
+			],
+			[
+				"prime",
+				"primeFloatsDict"
+			],
+			[
+				"do",
+				"docNum"
+			],
+			[
+				"poi",
+				"poIncInvChkNetNewKey"
+			],
+			[
+				"po",
+				"poID"
+			],
+			[
+				"primt",
+				"primeFloatsDict"
+			],
+			[
+				"quote",
+				"quoteCurrency"
+			],
+			[
+				"prim",
+				"primeFloatsDict"
+			],
+			[
+				"soft",
+				"softValidationDict"
+			],
+			[
+				"se",
+				"secondSearch"
+			],
+			[
+				"del",
+				"delimitedString"
+			],
+			[
+				"proposa",
+				"proposalQuantityFlag"
+			],
+			[
+				"_",
+				"_price_quantity"
+			],
+			[
+				"o",
+				"oppURL"
+			],
+			[
+				"F",
+				"FormattedapprovalReason"
+			],
+			[
+				"app",
+				"approvalReason"
+			],
+			[
+				"starting",
+				"startingDate"
+			],
+			[
+				"start",
+				"startingDate"
+			],
+			[
+				"sec",
+				"secondResult"
+			],
+			[
+				"totalsetup",
+				"totalSetupFeeDiscountAmount"
+			],
+			[
+				"trigger",
+				"triggerDict"
+			],
+			[
+				"acctPart",
+				"acctPartnerDiscount"
+			],
+			[
+				"total",
+				"totalBaseDiscountAmount"
+			],
+			[
+				"totals",
+				"totalsDict"
+			],
+			[
+				"float",
+				"floatDict"
+			],
+			[
+				"totalBase",
+				"totalBaseFeeList"
+			],
+			[
+				"BASE",
+				"BASE_FEE"
+			],
+			[
+				"totalSe",
+				"totalSetupFeeDiscountAmount"
+			],
+			[
+				"trigg",
+				"triggerDict"
+			],
+			[
+				"trig",
+				"triggerDict"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/classes/Day0Example.cls-meta.xml",
+			"settings":
+			{
+				"buffer_size": 174,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 341.0,
+		"last_filter": "java",
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"JAVA",
+				"Set Syntax: Java"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"xsl",
+				"Set Syntax: SQL"
+			],
+			[
+				"sml",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"jav",
+				"Set Syntax: Java"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"syn",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 609.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/NicholsLauren/Documents/apex-bootcamp-oct2017",
+		"/C/Users/NicholsLauren/Documents/apex-bootcamp-oct2017/src",
+		"/C/Users/NicholsLauren/Documents/apex-bootcamp-oct2017/src/classes"
+	],
+	"file_history":
+	[
+		"/C/Users/NicholsLauren/Documents/apex-bootcamp-oct2017/src/package.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85237/STAGING/setPartOrder_config_STAGING_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85237/STAGING/recommendedMandatoryItems_config_STAGING_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85237/DEV/pricing_DEV_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85237/STAGING/recommendedMandatoryItems_config_STAGING_original.java",
+		"/C/Users/NicholsLauren/Documents/evaluateApprovalsSFAOriginal.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85237/DEV/pricing_DEV_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85237/DEV/hidingPermanentTestEnvironmentBasedOnAsset.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85237/DEV/recommendedMandatoryItems_config_DEV_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85237/DEV/setPartOrder_DEV_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85237/DEV/configFieldPopulation_config_DEV_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85237/DEV/setPartOrder_DEV_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85237/DEV/recommendedMandatoryItems_config_DEV_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CIP Rework/Proposal Rework/ItalianTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CIP Rework/Proposal Rework/EnglishTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CIP Rework/Proposal Rework/GermanTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CIP Rework/Proposal Rework/FrenchTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CIP Rework/Proposal Rework/AustralianTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84230/DEV/preventZeroTransactionsForCertainProducts_DEV_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85350/DEV/additionalDefinitions.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85350/DEV/ExpenseProductOnePage.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85350/DEV/expenseProductsProposalXSL.xml",
+		"/C/Users/NicholsLauren/AppData/Local/Temp/Temp1_user_1507134021408.zip/user_1507134021408.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85350/DEV/invoiceProductsProposalXSL.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/A Prod Backup's Refresh 10-06-2017/PROD/Account Integrations/SFDC Account - Import/queryGeneratorXSL.xsl",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/A Prod Backup's Refresh 10-06-2017/PROD/Account Integrations/SFDC Account - Import/queryResultParserXSL.xsl",
+		"/C/Users/NicholsLauren/AppData/Local/Temp/Temp1_PRODUCTFAMILY_1507049537750.zip/root.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/A Prod Backup's Refresh 10-06-2017/OldDev/Data Tables/script_data_1507045787459.xml",
+		"/C/Users/NicholsLauren/AppData/Local/Temp/Temp1_config_attr_1507045663384.zip/config_attr_1507045663384.xml",
+		"/C/Users/NicholsLauren/AppData/Local/Temp/Temp1_COMMERCE_1506972395857.zip/quickstart_commerce_process/docDesignerTemplates/0f7af524-1821-34bf-9ffa-61200ae3adaa/DocDesignerTemplates.xml",
+		"/C/Users/NicholsLauren/AppData/Local/Temp/Temp1_COMMERCE_1506972395857.zip/root.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85964/STAGING/generateServiceAccountID_STAGING_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85964/SFA/generateServiceAccountID_SFA_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/SFA/getStandTierPricing_SFA_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/SFA/pricing_SFA_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/STAGING/ORIGINALS-STAGING/pricing_STAGING_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/STAGING/ORIGINALS-STAGING/getStandTierPricing_util_STAGING_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/SFA/submitForCustomPricing_modify_afterFormula_SFA_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/STAGING/ORIGINALS-STAGING/submitForCustomPricing_modifyAfterFormulas_STAGING_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/SFA/ORIGINALS/getStandTierPricing_SFA_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/SFA/ORIGINALS/getStandardTierPricing_SFA_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/SFA/getStandardTierPricing_SFA_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/SFA/submitForCustomPricing_modify_afterFormula_SFA_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/SFA/customListPrice_line_Default_Function_SFA_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/SFA/customListPrice_line_Default_Function_New_SFA_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/SFA/pricing_OLD_DEV_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/SFA/pricing_OLD_DEV_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85811/SFA/ORIGINALS/pricing_SFA_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84889/SFA/proposal_productGrid_SFA_original.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84889/SFA/proposal_Invoice_Ramp_Logic_SFA_original.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84889/SFA/proposalPageXSL_SFA.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85600/SFA/formatDate_util_SFA_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85600/SFA/setOutputValues_SFA_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85600/STAGING/setOutputValues_STAGING_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85600/STAGING/formatDate_util_STAGING_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85600/STAGING/ORIGINALS-STAGING/formatDate_util_STAGING_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85600/STAGING/ORIGINALS-STAGING/setOutputValues_STAGING_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85600/SFA/setOutputValues_SFA_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85600/SFA/formatDate_util_SFA_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85599/STAGING/newProductStartDate_STAGING_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-80373/SFA/proposalTableProductGrid_WITH_RAMPS.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-80373/SFA/proposalTableProductGrid_NO_RAMPS_v1.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-80373/SFA/printing_SFA_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-80373/SFA/printing_SFA_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84787/STAGING/pricing_STAGING_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84787/PROD/pricing_PROD_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-80373/SFA/proposalExpirationDate_SFA_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-80373/SFA/proposalWordInvoice.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-80373/SFA/proposalExpirationDate_SFA_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85318/manageOEDBillingException_STAGING_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-85318/manageOEDbillingException_STAGING_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-82480/PROD/manageOEDBillingException_PROD_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-82480/STAGING/manageOEDBillingException_STAGING_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-82480/PROD/manageOEDValidation_PROD_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-82480/STAGING/manageOEDvalidation_STAGING_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84787/STAGING/pricing_STAGING_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84787/SFA/pricing_SFA_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83864/SFA/grid3CoreServices_SFA_v1.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83864/SFA/PartnerBillingXML.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83864/SFA/CommercialQuoteXML.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83864/STAGING/grid3_coreService_STAGING_original.xsl",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84951/SFA/grid12_SFA_v1.xsl",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84951/SFA/grid_12_v2.xsl",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84951/SFA/grid12_SFA_original_DD.xsl",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83812/PROD/newProductStartDate_PROD_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83812/SFA/newProductStartDate_SFA_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83812/STAGING/setOutputValues_STAGING_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83812/PROD/setOutputValues_PROD_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83812/STAGING/newProductStartDate_STAGING_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83812/STAGING/orderVsQuoteRework_STAGING_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83812/PROD/orderVSQuoteRework_PROD_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83812/PROD/newProductStartDate_PROD_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-82480/SFA/manageOEDvalidation_SFA_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-82480/SFA/manageOEDbillingException_SFA_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83864/SFA/grid12ProServ_SFA_original.xsl",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83864/SFA/grid10UnitExtServ_SFA_original.xsl",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83864/SFA/grid6TrnxExtServ_SFA_original.xsl",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83864/SFA/grid3CoreServices_SFA_original.xsl",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83864/SFA/grid6CoreServices_SFA_original.xsl",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83864/SFA/grid10CoreServices_SFA_original.xsl",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83864/SFA/grid12CoreServices_SFA_original.xsl",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83864/SFA/servicePartnerContainsCIPCSP_quote_defaultFunction_SFA_v1.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83812/SFA/setOutputValues_SFA_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83812/SFA/newProductStartDate_SFA_original.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83812/SFA/orderVsQuotationReplace.java",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-83812/SFA/oed_SMN_EntOrderForm_original.xsl",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84382/SFA/commerce_08152017.js",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84382/STAGING/commerce_08082017.js",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84382/STAGING/bm-framework_08082017.js",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84382/SFA/bm-framework_08152017.js",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84382/SFA/commerce_08042017.js",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84382/SFA/bm-framework_08042017.js",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/SFA/ItalianTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/STAGING/GermanTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/SFA/GermanTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/STAGING/FrenchTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/SFA/FrenchTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/STAGING/Originals STAGING/FrenchTranslations_STAGING_original.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/STAGING/EnglishTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/SFA/EnglishTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/STAGING/AustralianTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/SFA/AustralianTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/STAGING/Originals STAGING/AustralianTranslations_STAGING_original.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/STAGING/Originals STAGING/GermanTranslations_STAGING_original.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/STAGING/ItalianTranslations.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/STAGING/Originals STAGING/ItalianTranslations_STAGING_original.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/STAGING/Originals STAGING/EnglishTranslation_STAGING_original.xml",
+		"/C/Users/NicholsLauren/OneDrive for Business/Code Backups/Concur/CSYS-84211/SFA/copyOfGermanTermsConditions_v1.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/classes/Day0Example.cls-meta.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 160.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "apex-bootcamp-oct2017.sublime-project",
+	"replace":
+	{
+		"height": 63.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 432.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
