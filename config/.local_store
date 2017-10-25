@@ -14,15 +14,17 @@
         "mmState": "clean"
     },
     "dayTwoGitExample.cls": {
-        "createdById": "0051I000000qQMJQA2",
-        "createdByName": "Lauren Nichols",
-        "createdDate": "2017-10-25T23:37:30.000Z",
-        "fileName": "unpackaged/classes/dayTwoGitExample.cls",
-        "fullName": "dayTwoGitExample",
         "id": "01p1I000007EdqvQAC",
+        "name": "dayTwoGitExample",
+        "createdDate": "2017-10-25T23:37:30.000+0000",
+        "createdById": "0051I000000qQMJQA2",
+        "namespacePrefix": null,
         "lastModifiedById": "0051I000000qQMJQA2",
+        "lastModifiedDate": "2017-10-25T23:49:20.000+0000",
+        "fullName": "dayTwoGitExample",
+        "fileName": "unpackaged/classes/dayTwoGitExample.cls",
+        "createdByName": "Lauren Nichols",
         "lastModifiedByName": "Lauren Nichols",
-        "lastModifiedDate": "2017-10-25T23:37:30.000Z",
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"

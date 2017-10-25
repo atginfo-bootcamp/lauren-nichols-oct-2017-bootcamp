@@ -1,5 +1,7 @@
 public with sharing class dayTwoGitExample {
-	public dayTwoGitExample() {
-		
+	
+	//To invoke this, call dayTwoGitExample.doStuff();
+	public static void doStuff() {
+		System.debug('I am doing stuff');
 	}
 }
