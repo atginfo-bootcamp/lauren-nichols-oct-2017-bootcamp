@@ -63,7 +63,6 @@ public with sharing class DayFiveMaps {
 
 		//loop through contacts
 		//print out the name of the contact and the account name
-		Account accountName = new Account();
 
 		//for(Contact currentContact : contactList){
 		//	//System.debug('Current contact name: ' + currentContact.Name);
