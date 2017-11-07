@@ -78,7 +78,7 @@
         "createdById": "0051I000000qQMJQA2",
         "namespacePrefix": null,
         "lastModifiedById": "0051I000000qQMJQA2",
-        "lastModifiedDate": "2017-11-02T21:22:12.000+0000",
+        "lastModifiedDate": "2017-11-07T22:37:44.000+0000",
         "fullName": "LeadTrigger",
         "fileName": "unpackaged/triggers/LeadTrigger.trigger",
         "createdByName": "Lauren Nichols",
@@ -117,6 +117,22 @@
         "lastModifiedByName": "Lauren Nichols",
         "manageableState": "unmanaged",
         "type": "ApexTrigger",
+        "mmState": "clean"
+    },
+    "LeadTriggerHelper.cls": {
+        "id": "01p1I000009KADvQAO",
+        "name": "LeadTriggerHelper",
+        "createdDate": "2017-11-07T22:14:27.000+0000",
+        "createdById": "0051I000000qQMJQA2",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051I000000qQMJQA2",
+        "lastModifiedDate": "2017-11-07T23:48:47.000+0000",
+        "fullName": "LeadTriggerHelper",
+        "fileName": "unpackaged/classes/LeadTriggerHelper.cls",
+        "createdByName": "Lauren Nichols",
+        "lastModifiedByName": "Lauren Nichols",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
         "mmState": "clean"
     }
 }
