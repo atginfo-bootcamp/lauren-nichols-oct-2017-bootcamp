@@ -27,12 +27,42 @@ private class ContactTriggerHelperTests {
 		}
 
 		insert accounts;
+
+		//Loop through all the newly created test accounts and store them in a list;
+		List<Account> testAccountsDB = [SELECT Id FROM Account WHERE Name LIKE :accountName];
+
+		List<Contact> contactsList = new List<Contact>();
+
+		for(Account currentAccount : testAccountsDB){
+
+			Integer numberOfContacts = (Integer)(Math.random()*4);
+
+			for(Integer i = 0; i < numberOfContacts; i ++){
+
+				Contact contact = new Contact();
+
+				contact.LastName = 'Test Boidly';
+				contact.AccountId = currentAccount.Id;
+				contactsList.add(contact);
+			}
+
+		}
+
+		insert contactsList;
 	}	
 
 
 	@isTest static void test_method_one() {
 		// Implement test code
+		stageData(10, 'Lotus Flowers');
 
+		List<Account> accountList = [
+			SELECT Name, Current_Number_of_Contacts__c, 
+				(SELECT LastName, AccountId FROM Contacts) 
+			FROM Account
+		];
+
+		System.assert(accountList.size() == 10);
 
 	}
 	
