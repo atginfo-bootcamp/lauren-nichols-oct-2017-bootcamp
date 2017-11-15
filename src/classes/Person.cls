@@ -6,8 +6,18 @@
 * 3. all other methods
 *
 */
-public class Person {
 
+//Static Method: 
+
+//Private - accessable from inside the class
+//Public - accessable from outside the class
+//Protected - inheritance, child can access from parent
+//Constructor - initialization method, create a new instance of, using the 'new' keyword
+	//method signature - parameter data types that are being passed in
+	//method overloading - two methods with the same name & same number of parameters as long as the parameter data types aren't the same
+//this - referes to the INSTANCE of a class
+public class Person {
+	//Instance variable: 
 	//Static variable are shared between all instances
 	private static Boolean isHuman = true;
 	
