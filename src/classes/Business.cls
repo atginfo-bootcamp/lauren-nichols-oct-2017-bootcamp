@@ -36,28 +36,50 @@ public with sharing class Business {
 
     public void addEmployee(List<Employee> employees){
 
-    	
-
     	this.employees.addAll(employees);
     	
     }
 
     public void removeEmployee(Integer employeeId){
-    	//work on this last
+    	
+        Integer indexToRemove;
+
+        for(Integer i = 0; i < employees.size(); i ++){
+            if(i == employeeId){
+                indexToRemove = i;
+            }            
+        }
+
+        employees.remove(indexToRemove);
     }
 
     public List<Employee> getEmployees(){
 
-    	return null;
+    	return employees;
     }
 
     public Employee getEmployeeById(Integer employeeId){
+
+            for(Employee employee : employees){
+                if(employeeId == employee.getEmployeeId()){
+                    return employee;
+                }
+            }
 
     	return null;
     }
 
     public void printLocationInfo(){
     	//print out all location information
+        System.debug('locationName: ' + locationName);
+        System.debug('address: ' + address);
+        System.debug('phoneNumber: ' + phoneNumber);
+        System.debug('employees: ' + employees);
+
+        for(Employee employee : employees){
+            employee.printEmployeeInfo();
+        }
+
     }
 
     //WORK ON VERY LAST IF FINISHED WITH ALL OTHER WORK

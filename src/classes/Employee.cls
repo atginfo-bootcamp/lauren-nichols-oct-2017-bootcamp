@@ -2,9 +2,10 @@ public with sharing class Employee {
 
     private static Integer nextEmployeeIdNumber = 1;
 
-    private final Integer employeeId;//users not allowed to set this, we will configure it
+    private final Integer EMPLOYEE_ID;//users not allowed to set this, we will configure it
 
     //These will need to be passed into the constructor
+    //Because these are private, this is why we need getter/setter methods to accecss them
     private String title;
     private String firstName;
     private String lastName;
@@ -17,7 +18,7 @@ public with sharing class Employee {
     public Employee(String title, String firstName, String lastName) {
         //IMPLEMENT THIS
      
-        this.employeeId = nextEmployeeIdNumber;
+        this.EMPLOYEE_ID = nextEmployeeIdNumber;
 
         this.title = title;
         this.firstName = firstName;
@@ -32,11 +33,21 @@ public with sharing class Employee {
     }
 
     public Integer getEmployeeId(){
-    	return employeeId;
+    	return EMPLOYEE_ID;
     }
 
+    public void setStatus(String status){
+            this.status = status;
+            statusDate = Datetime.now();
+    }
+
+    public String getStatus(){
+        return status;
+    }
+
+
     public void printEmployeeInfo(){
-    	System.debug('employeeId: ' + employeeId);
+    	System.debug('EMPLOYEE_ID: ' + EMPLOYEE_ID);
     	System.debug('title: ' + title);
     	System.debug('firstName: ' + firstName);
     	System.debug('lastName: ' + lastName);
