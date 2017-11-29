@@ -22,5 +22,9 @@
 		<members>EmployeeTrigger</members>
 		<name>ApexTrigger</name>
 	</types>
+	<types>
+		<members>Day14VisualForcePage</members>
+		<name>ApexPage</name>
+	</types>
 	<version>40.0</version>
 </Package>
