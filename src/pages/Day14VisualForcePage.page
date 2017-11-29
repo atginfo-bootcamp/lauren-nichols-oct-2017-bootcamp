@@ -32,5 +32,13 @@
 			</apex:pageBlockSection>
 		</apex:pageBlock>
 
+		<apex:outputPanel layout="block">
+			This is a div
+		</apex:outputPanel>
+		<apex:outputPanel layout="inline">
+			This is a span
+		</apex:outputPanel>
+
+
 	</apex:form>
 </apex:page>
