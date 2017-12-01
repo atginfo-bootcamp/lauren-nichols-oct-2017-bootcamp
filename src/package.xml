@@ -14,6 +14,11 @@
 		<members>Business</members>
 		<members>Employee</members>
 		<members>LocationManagement</members>
+		<members>AccountListControllerExt</members>
+		<members>BulkDeleteAccountsController</members>
+		<members>Day15DynamicSOQL</members>
+		<members>NewAccountController</members>
+		<members>MyAccountController</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
@@ -24,6 +29,10 @@
 	</types>
 	<types>
 		<members>Day14VisualForcePage</members>
+		<members>AccountList</members>
+		<members>BulkDeleteAccounts</members>
+		<members>MyAccount</members>
+		<members>NewAccount</members>
 		<name>ApexPage</name>
 	</types>
 	<version>40.0</version>
