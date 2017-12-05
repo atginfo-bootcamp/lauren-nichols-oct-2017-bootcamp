@@ -484,7 +484,7 @@
 			"file": "src/classes/dayTwoGitExample.cls",
 			"settings":
 			{
-				"buffer_size": 174,
+				"buffer_size": 216,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -779,15 +779,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 174,
+						"buffer_size": 216,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								172,
-								172
+								0,
+								0
 							]
 						],
 						"settings":
