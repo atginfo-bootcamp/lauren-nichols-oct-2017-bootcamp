@@ -1,0 +1,36 @@
+<apex:page showHeader="true" sidebar="true" controller="AccountAndOppCreatorController">
+
+	<apex:sectionHeader title="Create Account with Related" subtitle="Account/Contact/Opportunity" />
+	
+	<apex:form>
+		<apex:pageBlock title="Input Data">
+		<apex:pageMessages/>
+			<apex:pageBlockButtons location="bottom">
+				<apex:commandButton action="{! saveRecords}" value="Save Records"/>
+			</apex:pageBlockButtons>
+	
+			<!-- This handles the values needed to create an account -->
+			<apex:pageBlockSection title="Account" columns="1">
+				<apex:inputField value="{! account.Name}"/>
+				<apex:inputField value="{! account.AccountNumber}" required="true"/>
+				<apex:inputField value="{! account.Description}"/>
+				<apex:inputField value="{! account.Type}" required="true"/>
+			</apex:pageBlockSection>
+
+			<!-- This handles the values needed to create a Contact -->
+			<apex:pageBlockSection title="Contact" columns="1">
+				<apex:inputField value="{! contact.FirstName}"/>
+				<apex:inputField value="{! contact.LastName}" required="false"/>
+				<apex:inputField value="{! contact.Salutation}"/>
+			</apex:pageBlockSection>
+
+			<apex:pageBlockSection title="Opportunity" columns="1">
+				<apex:inputField value="{! oppty.Name}" required="false"/>
+				<apex:inputField value="{! oppty.Type}"/>
+				<apex:inputField value="{! oppty.StageName}" required="false"/>
+				<apex:inputField value="{! oppty.CloseDate}" required="false"/>
+			</apex:pageBlockSection>
+		</apex:pageBlock>
+
+	</apex:form>
+</apex:page>
