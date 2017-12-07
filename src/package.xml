@@ -20,6 +20,7 @@
 		<members>NewAccountController</members>
 		<members>MyAccountController</members>
 		<members>AccountAndOppCreatorController</members>
+		<members>PassByReferenceExample</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
