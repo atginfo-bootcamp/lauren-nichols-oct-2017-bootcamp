@@ -21,6 +21,10 @@
 		<members>MyAccountController</members>
 		<members>AccountAndOppCreatorController</members>
 		<members>PassByReferenceExample</members>
+		<members>Animals</members>
+		<members>Dog</members>
+		<members>Fish</members>
+		<members>AnimalGod</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
