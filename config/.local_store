@@ -544,5 +544,53 @@
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
+    },
+    "ProductTrigger.trigger": {
+        "id": "01q1I000001MBljQAG",
+        "name": "ProductTrigger",
+        "createdDate": "2018-01-02T22:21:51.000+0000",
+        "createdById": "0051I000000qQMJQA2",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051I000000qQMJQA2",
+        "lastModifiedDate": "2018-01-02T22:33:00.000+0000",
+        "fullName": "ProductTrigger",
+        "fileName": "unpackaged/triggers/ProductTrigger.trigger",
+        "createdByName": "Lauren Nichols",
+        "lastModifiedByName": "Lauren Nichols",
+        "manageableState": "unmanaged",
+        "type": "ApexTrigger",
+        "mmState": "clean"
+    },
+    "ProductTriggerHelper.cls": {
+        "id": "01p1I00000F1TbjQAF",
+        "name": "ProductTriggerHelper",
+        "createdDate": "2018-01-02T22:22:21.000+0000",
+        "createdById": "0051I000000qQMJQA2",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051I000000qQMJQA2",
+        "lastModifiedDate": "2018-01-02T23:49:53.000+0000",
+        "fullName": "ProductTriggerHelper",
+        "fileName": "unpackaged/classes/ProductTriggerHelper.cls",
+        "createdByName": "Lauren Nichols",
+        "lastModifiedByName": "Lauren Nichols",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    },
+    "Utils.cls": {
+        "id": "01p1I00000F1TgoQAF",
+        "name": "Utils",
+        "createdDate": "2018-01-02T23:43:34.000+0000",
+        "createdById": "0051I000000qQMJQA2",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051I000000qQMJQA2",
+        "lastModifiedDate": "2018-01-02T23:52:01.000+0000",
+        "fullName": "Utils",
+        "fileName": "unpackaged/classes/Utils.cls",
+        "createdByName": "Lauren Nichols",
+        "lastModifiedByName": "Lauren Nichols",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
     }
 }
