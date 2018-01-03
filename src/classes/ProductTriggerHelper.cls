@@ -15,6 +15,11 @@ public with sharing class ProductTriggerHelper {
 		for(Product2 product : products){
 				System.debug('Product Name Changed!' + product);
 		}
+
+		List<Product2> changedProductsWithExpectedProductFamily = (List<Product2>) Utils.checkForChangedFields(products, oldProductMap, 'Family', 'Special');
+		for(Product2 product : products){
+				System.debug('Product Family Changed!' + product);
+		}
 	}
 
 
