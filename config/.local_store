@@ -592,5 +592,19 @@
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
+    },
+    "UtilsTest.cls": {
+        "createdById": "0051I000000qQMJQA2",
+        "createdByName": "Lauren Nichols",
+        "createdDate": "2018-01-03T22:18:10.000Z",
+        "fileName": "unpackaged/classes/UtilsTest.cls",
+        "fullName": "UtilsTest",
+        "id": "01p1I00000Fu5sLQAR",
+        "lastModifiedById": "0051I000000qQMJQA2",
+        "lastModifiedByName": "Lauren Nichols",
+        "lastModifiedDate": "2018-01-03T22:18:10.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
     }
 }

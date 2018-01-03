@@ -31,6 +31,7 @@
 		<members>CreateAccountsSchedulable</members>
 		<members>ProductTriggerHelper</members>
 		<members>Utils</members>
+		<members>UtilsTest</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
