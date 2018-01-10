@@ -32,6 +32,8 @@
 		<members>ProductTriggerHelper</members>
 		<members>Utils</members>
 		<members>UtilsTest</members>
+		<members>ProductChangeEmailBatch</members>
+		<members>Constants</members>
 		<name>ApexClass</name>
 	</types>
 	<types>

@@ -3,6 +3,7 @@ public with sharing class ProductTriggerHelper {
 
 	public static void handleAfterUpdate(List<Product2> products, Map<Id, Product2> oldProductMap){
 		checkIfNameChanged(products, oldProductMap);
+		trackIfProductChanged(products, oldProductMap);
 	}
 
 
@@ -22,6 +23,28 @@ public with sharing class ProductTriggerHelper {
 		}
 	}
 
+	public static void trackIfProductChanged(List<Product2> products, Map<Id, Product2> oldProductMap){
+
+		List<Product2> changedProducts = (List<Product2>) Utils.checkForChangedFields(products, oldProductMap, Constants.TRACK_PRODUCT_CHANGES);
+
+		List<Product_Changes__c> productChanges = new List<Product_Changes__c>();
+
+		for(Product2 product : changedProducts){
+
+			System.debug('Product Changed: ' + product);
+
+			Product_Changes__c productChange = new Product_Changes__c();
+
+			productChange.Product__c = product.Id;
+			productChange.Date_Changed__c = Datetime.now();
+			productChange.User__c = product.LastModifiedById;
+
+			productChanges.add(productChange);
+		}
+
+		insert productChanges;
+
+	}
 
 	//This is the old version before moving to the generic SObject: 
 	//private static void checkIfNameChanged(List<Product2> products, Map<Id, Product2> oldProductMap){
